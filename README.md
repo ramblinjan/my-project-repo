@@ -8,3 +8,5 @@ Example workflow for making changes:
 4. Do your work in that branch
 5. Stage, commit, and push that branch
 6. Open a pull request on the GitHub repo
+
+![](./Screenshot.png)
